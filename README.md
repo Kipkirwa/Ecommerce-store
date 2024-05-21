@@ -15,7 +15,7 @@ This is a python eCommerce web application built using the Django framework. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kipkirwa/estore_app.git
+   git clone https://github.com/Kipkirwa/Ecommerce-store
 
 2. Navigate to the project directory:
 
