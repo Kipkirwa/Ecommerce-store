@@ -1,4 +1,4 @@
-# E-commerce App with Django
+# Django E-commerce Application
 
 This is a python eCommerce web application built using the Django framework. The app allows users to browse products, add items to their cart, and complete orders.
 
